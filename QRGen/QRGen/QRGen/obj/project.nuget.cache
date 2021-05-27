@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Xkg6xX48H1hfIPrSuQbYbnVBtJI5oRBuiDrMA/Z3pfne6RAEy9YzDEdtGkT3VEE8qIzut2S9cJTnplfYrEGKXA==",
+  "dgSpecHash": "HAEaR3v8uBUnQ+e3CgJ5FL3USpwCBu4g5XJncBgDWhlSQSzQ9kgH3IXVBMgnoN4Y2HLmVtF/WNPgw9fx39MyUw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Rich\\Desktop\\Projects\\QRGen\\QRGen\\QRGen\\QRGen.csproj",
+  "projectFilePath": "C:\\Users\\Rich\\Desktop\\Projects\\QR-Generator\\QRGen\\QRGen\\QRGen\\QRGen.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rich\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Rich\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4mF9A56cDZsEi/LsZDQJC0HndMKMkT/LQLSByTJH6fhhRyggarQs6y6u+DVtYP4uMGhPOp645KEzVRhgPwsRnA==",
+  "dgSpecHash": "a3BbUlEeskQTMgkm1eaYQWAR9lXQi16Jynq/MOV2OBYSwFTEreinHNepbqPTTW8nF08YPpSEoJ2opl8wTGMBsA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Rich\\Desktop\\Projects\\QRGen\\QRGen\\QRGen.Android\\QRGen.Android.csproj",
+  "projectFilePath": "C:\\Users\\Rich\\Desktop\\Projects\\QR-Generator\\QRGen\\QRGen\\QRGen.Android\\QRGen.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rich\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.activity\\1.1.0.5\\xamarin.androidx.activity.1.1.0.5.nupkg.sha512",

@@ -29,9 +29,43 @@
         </StackLayout>
         <ScrollView Grid.Row="1">
             <StackLayout Orientation="Vertical" Padding="30,24,30,24" Spacing="10">
+
+                <Label Text="Address to convert to QR:" FontSize="Medium"/>
+                <Entry Text="Enter address here" />
+
                 <Label Text="Grid size:" FontSize="Medium"/>
+                <Slider BackgroundColor="CornflowerBlue" />
+
+                
+                
                 <Label Text="Foreground Colour:" FontSize="Medium"/>
+                <Picker x:Name="FColour" HorizontalOptions="FillAndExpand" SelectedIndex="0">
+                    <Picker.Items>
+                        <x:String>White</x:String>
+                        <x:String>Black</x:String>
+                        <x:String>Red</x:String>
+                        <x:String>Yellow</x:String>
+                        <x:String>Blue</x:String>
+                        <x:String>Orange</x:String>
+                        <x:String>Green</x:String>
+                        <x:String>Brown</x:String>
+                    </Picker.Items>
+                </Picker>
+
+
                 <Label Text="Background Colour:" FontSize="Medium"/>
+                <Picker x:Name="BColour" HorizontalOptions="FillAndExpand" SelectedIndex="0" >
+                    <Picker.Items>
+                        <x:String>Black</x:String>
+                        <x:String>White</x:String>
+                        <x:String>Red</x:String>
+                        <x:String>Yellow</x:String>
+                        <x:String>Blue</x:String>
+                        <x:String>Orange</x:String>
+                        <x:String>Green</x:String>
+                        <x:String>Brown</x:String>
+                    </Picker.Items>
+                </Picker>
 
                 <Button Margin="0,10,0,0" Text="Create QR Code"
                         Command="{Binding OpenWebCommand}"

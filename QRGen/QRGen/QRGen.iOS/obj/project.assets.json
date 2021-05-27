@@ -997,11 +997,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rich\\Desktop\\Projects\\QRGen\\QRGen\\QRGen.iOS\\QRGen.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\Rich\\Desktop\\Projects\\QR-Generator\\QRGen\\QRGen\\QRGen.iOS\\QRGen.iOS.csproj",
       "projectName": "QRGen.iOS",
-      "projectPath": "C:\\Users\\Rich\\Desktop\\Projects\\QRGen\\QRGen\\QRGen.iOS\\QRGen.iOS.csproj",
+      "projectPath": "C:\\Users\\Rich\\Desktop\\Projects\\QR-Generator\\QRGen\\QRGen\\QRGen.iOS\\QRGen.iOS.csproj",
       "packagesPath": "C:\\Users\\Rich\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rich\\Desktop\\Projects\\QRGen\\QRGen\\QRGen.iOS\\obj\\",
+      "outputPath": "C:\\Users\\Rich\\Desktop\\Projects\\QR-Generator\\QRGen\\QRGen\\QRGen.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1022,8 +1022,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\Rich\\Desktop\\Projects\\QRGen\\QRGen\\QRGen\\QRGen.csproj": {
-              "projectPath": "C:\\Users\\Rich\\Desktop\\Projects\\QRGen\\QRGen\\QRGen\\QRGen.csproj"
+            "C:\\Users\\Rich\\Desktop\\Projects\\QR-Generator\\QRGen\\QRGen\\QRGen\\QRGen.csproj": {
+              "projectPath": "C:\\Users\\Rich\\Desktop\\Projects\\QR-Generator\\QRGen\\QRGen\\QRGen\\QRGen.csproj"
             }
           }
         }

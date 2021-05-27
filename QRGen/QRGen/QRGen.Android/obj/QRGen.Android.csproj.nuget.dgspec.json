@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rich\\Desktop\\Projects\\QRGen\\QRGen\\QRGen.Android\\QRGen.Android.csproj": {}
+    "C:\\Users\\Rich\\Desktop\\Projects\\QR-Generator\\QRGen\\QRGen\\QRGen.Android\\QRGen.Android.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rich\\Desktop\\Projects\\QRGen\\QRGen\\QRGen.Android\\QRGen.Android.csproj": {
+    "C:\\Users\\Rich\\Desktop\\Projects\\QR-Generator\\QRGen\\QRGen\\QRGen.Android\\QRGen.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rich\\Desktop\\Projects\\QRGen\\QRGen\\QRGen.Android\\QRGen.Android.csproj",
+        "projectUniqueName": "C:\\Users\\Rich\\Desktop\\Projects\\QR-Generator\\QRGen\\QRGen\\QRGen.Android\\QRGen.Android.csproj",
         "projectName": "QRGen.Android",
-        "projectPath": "C:\\Users\\Rich\\Desktop\\Projects\\QRGen\\QRGen\\QRGen.Android\\QRGen.Android.csproj",
+        "projectPath": "C:\\Users\\Rich\\Desktop\\Projects\\QR-Generator\\QRGen\\QRGen\\QRGen.Android\\QRGen.Android.csproj",
         "packagesPath": "C:\\Users\\Rich\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rich\\Desktop\\Projects\\QRGen\\QRGen\\QRGen.Android\\obj\\",
+        "outputPath": "C:\\Users\\Rich\\Desktop\\Projects\\QR-Generator\\QRGen\\QRGen\\QRGen.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "monoandroid11.0": {
             "projectReferences": {
-              "C:\\Users\\Rich\\Desktop\\Projects\\QRGen\\QRGen\\QRGen\\QRGen.csproj": {
-                "projectPath": "C:\\Users\\Rich\\Desktop\\Projects\\QRGen\\QRGen\\QRGen\\QRGen.csproj"
+              "C:\\Users\\Rich\\Desktop\\Projects\\QR-Generator\\QRGen\\QRGen\\QRGen\\QRGen.csproj": {
+                "projectPath": "C:\\Users\\Rich\\Desktop\\Projects\\QR-Generator\\QRGen\\QRGen\\QRGen\\QRGen.csproj"
               }
             }
           }
@@ -54,14 +54,14 @@
         }
       }
     },
-    "C:\\Users\\Rich\\Desktop\\Projects\\QRGen\\QRGen\\QRGen\\QRGen.csproj": {
+    "C:\\Users\\Rich\\Desktop\\Projects\\QR-Generator\\QRGen\\QRGen\\QRGen\\QRGen.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rich\\Desktop\\Projects\\QRGen\\QRGen\\QRGen\\QRGen.csproj",
+        "projectUniqueName": "C:\\Users\\Rich\\Desktop\\Projects\\QR-Generator\\QRGen\\QRGen\\QRGen\\QRGen.csproj",
         "projectName": "QRGen",
-        "projectPath": "C:\\Users\\Rich\\Desktop\\Projects\\QRGen\\QRGen\\QRGen\\QRGen.csproj",
+        "projectPath": "C:\\Users\\Rich\\Desktop\\Projects\\QR-Generator\\QRGen\\QRGen\\QRGen\\QRGen.csproj",
         "packagesPath": "C:\\Users\\Rich\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rich\\Desktop\\Projects\\QRGen\\QRGen\\QRGen\\obj\\",
+        "outputPath": "C:\\Users\\Rich\\Desktop\\Projects\\QR-Generator\\QRGen\\QRGen\\QRGen\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

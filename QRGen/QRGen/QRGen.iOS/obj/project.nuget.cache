@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IUFuUFghICpEFBOmGd0pVS7byH/rS3Y8gQSMjS+iMnQljJyLmdGobSWPwPoTUzqdbRGheIUsRozrIesT8uP8mg==",
+  "dgSpecHash": "n4p7rUmYLMADy/DnvaziLtrExDqF3EGVAqe9pNJla6wuObBWRh4vqCAThI8QNy2coujaSxcn47lbl+pnZ1OsoQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Rich\\Desktop\\Projects\\QRGen\\QRGen\\QRGen.iOS\\QRGen.iOS.csproj",
+  "projectFilePath": "C:\\Users\\Rich\\Desktop\\Projects\\QR-Generator\\QRGen\\QRGen\\QRGen.iOS\\QRGen.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rich\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
